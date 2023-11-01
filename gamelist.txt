@@ -1,3 +1,4 @@
+cdn.cloudflare.steamstatic.com
 9anime.to
 adultfriendfinder.com
 anidb.net
